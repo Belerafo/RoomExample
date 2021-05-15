@@ -9,8 +9,8 @@ import android.view.ViewGroup
 import android.widget.Toast
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
-import com.example.roomexample.data.User
-import com.example.roomexample.data.UserViewModel
+import com.example.roomexample.model.User
+import com.example.roomexample.viewmodel.UserViewModel
 import kotlinx.android.synthetic.main.fragment_add.*
 import kotlinx.android.synthetic.main.fragment_add.view.*
 import kotlinx.coroutines.InternalCoroutinesApi
